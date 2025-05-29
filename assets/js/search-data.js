@@ -412,7 +412,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-may-2025-presented-our-poster-at-msct-2025-in-montreal-poster-november-2024-i-became-a-phd-candidate-partying-face-may-2024-passed-department-qualifying-exam-october-2023-our-paper-was-presented-at-iecon-2023-in-singapore-september-2023-began-phd-studies-at-the-university-of-toronto-september-2023-my-poster-was-presented-at-epe-2023-in-denmark-august-2023-successfully-defended-master-s-thesis-august-2023-presented-research-results-at-peds-2023-september-2021-started-master-s-program-at-queen-s-university",
+            },},{id: "news-may-2025-presented-our-poster-at-msct-2025-in-montreal-poster-november-2024-i-became-a-phd-candidate-partying-face-may-2024-passed-department-qualifying-exam-october-2023-our-paper-was-presented-at-iecon-2023-in-singapore-september-2023-began-phd-studies-at-the-university-of-toronto",
           title: 'May 2025: Presented our poster at MSCT 2025 in Montreal.[Poster] November 2024: I...',
           description: "",
           section: "News",},{id: "projects-project-1",
